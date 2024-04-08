@@ -1,1 +1,1 @@
-Demo project
+Demo front-end project
